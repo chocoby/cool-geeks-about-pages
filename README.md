@@ -4,22 +4,22 @@ Collection of Cool Geeks' About Pages.
 
 |GitHub|URL|
 |------|---|
-|@dhh|http://david.heinemeierhansson.com/|
-|@defunkt|http://chriswanstrath.com/|
-|@steveklabnik|http://steveklabnik.com/|
-|@jeremy|http://bitsweat.net/|
-|@fxn|http://www.hashref.com/|
-|@sj26|http://sj26.com/|
-|@technicalpickles|http://technicalpickles.com/|
+|[@dhh](https://github.com/dhh)|http://david.heinemeierhansson.com/|
+|[@defunkt](https://github.com/defunkt)|http://chriswanstrath.com/|
+|[@steveklabnik](https://github.com/steveklabnik)|http://steveklabnik.com/|
+|[@jeremy](https://github.com/jeremy)|http://bitsweat.net/|
+|[@fxn](https://github.com/fxn)|http://www.hashref.com/|
+|[@sj26](https://github.com/sj26)|http://sj26.com/|
+|[@technicalpickles](https://github.com/technicalpickles)|http://technicalpickles.com/|
 
 ## jp
 
 |GitHub|URL|
 |------|---|
-|@cho45|http://www.lowreal.net/|
-|@id774|http://www.id774.net/|
-|@mitukiii|http://mitukiii.jp/|
-|@kentaro|http://kentarok.org/|
+|[@cho45](https://github.com/cho45)|http://www.lowreal.net/|
+|[@id774](https://github.com/id774)|http://www.id774.net/|
+|[@mitukiii](https://github.com/mitukiii)|http://mitukiii.jp/|
+|[@kentaro](https://github.com/kentaro)|http://kentarok.org/|
 
 ## Contributing
 

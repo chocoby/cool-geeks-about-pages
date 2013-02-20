@@ -17,9 +17,10 @@ Collection of Cool Geeks' About Pages.
 |GitHub|URL|
 |------|---|
 |[@cho45](https://github.com/cho45)|http://www.lowreal.net/|
+|[@naoya](https://github.com/naoya)|http://naoya.github.com/|
+|[@kentaro](https://github.com/kentaro)|http://kentarok.org/|
 |[@id774](https://github.com/id774)|http://www.id774.net/|
 |[@mitukiii](https://github.com/mitukiii)|http://mitukiii.jp/|
-|[@kentaro](https://github.com/kentaro)|http://kentarok.org/|
 
 ## Contributing
 

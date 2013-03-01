@@ -11,6 +11,7 @@ Collection of Cool Geeks' About Pages.
 |[@fxn](https://github.com/fxn)|http://www.hashref.com/|
 |[@sj26](https://github.com/sj26)|http://sj26.com/|
 |[@technicalpickles](https://github.com/technicalpickles)|http://technicalpickles.com/|
+|[@laserlemon](https://github.com/laserlemon)|http://laserlemon.com/|
 
 ## jp
 

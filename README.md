@@ -22,6 +22,7 @@ Collection of Cool Geeks' About Pages.
 |[@kentaro](https://github.com/kentaro)|http://kentarok.org/|
 |[@id774](https://github.com/id774)|http://www.id774.net/|
 |[@mitukiii](https://github.com/mitukiii)|http://mitukiii.jp/|
+|[@sorah](https://github.com/sorah)|http://sorah.jp/|
 
 ## Contributing
 

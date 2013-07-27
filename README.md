@@ -23,6 +23,7 @@ Collection of Cool Geeks' About Pages.
 |[@id774](https://github.com/id774)|http://www.id774.net/|
 |[@mitukiii](https://github.com/mitukiii)|http://mitukiii.jp/|
 |[@sorah](https://github.com/sorah)|http://sorah.jp/|
+|[@kkosuge](https://github.com/kkosuge)|http://kksg.net/|
 
 ## Contributing
 
